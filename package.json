@@ -1,0 +1,28 @@
+{
+  "name": "ai_pro_coffee_bot",
+  "version": "1.0.0",
+  "description": "Coffee bot",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitarui92/ai_pro_coffee_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitarui92/ai_pro_coffee_bot/issues"
+  },
+  "homepage": "https://github.com/nikitarui92/ai_pro_coffee_bot#readme",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "dotenv": "^8.2.0",
+    "koa": "^2.13.1",
+    "koa-body": "^4.2.0",
+    "mongoose": "^5.11.15",
+    "telegraf": "^4.0.2"
+  }
+}
