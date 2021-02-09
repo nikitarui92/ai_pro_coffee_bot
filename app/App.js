@@ -3,7 +3,7 @@ import Koa from "koa"
 import koaBody from "koa-body";
 import Router from '@koa/router'
 
-import Config from './Config.js'
+import Config from './config.js'
 
 export default class App {
 

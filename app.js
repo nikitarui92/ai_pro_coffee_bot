@@ -1,5 +1,5 @@
 
-import App from './app/App.js'
+import App from './app/app.js'
 
 const app = new App()
 
